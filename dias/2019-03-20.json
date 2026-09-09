@@ -1,0 +1,18 @@
+{
+ "fecha": "2019-03-20",
+ "generado": "2026-09-09T15:41:13Z",
+ "n": 1,
+ "que_prueba_esto": "La fecha del COMMIT que contiene este fichero, registrada por GitHub al recibir el push, fija el limite superior: estos registros, con estos sha256, existian ya entonces. El nombre del fichero es la fecha de la OBSERVACION, que no esta probada por si sola. Los registros con via=\"wayback\" tienen ademas fecha certificada por el Internet Archive, que es independiente de nosotros.",
+ "raiz_sha256": "b0a569efd9c5dc2ee8f19a3a97c5fa19ee472c5d9c8406f7eda67a3cc0d8522d",
+ "registros": [
+  {
+   "bytes": 28124,
+   "id": "seur_suplementos",
+   "ok": true,
+   "sha256": "fb319540fe36629f5d8ad0c15e1d4e02141d28133035841ba095927ebe5b56b5",
+   "ts": "2019-03-20T04:26:39Z",
+   "url": "https://www.seur.com/es/empresas/servicios-disponibles/transporte-nacional/suplementos-en-el-precio-de-tu-envio/",
+   "via": "wayback"
+  }
+ ]
+}

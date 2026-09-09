@@ -1,0 +1,26 @@
+{
+ "fecha": "2025-07-09",
+ "generado": "2026-09-09T15:41:13Z",
+ "n": 2,
+ "que_prueba_esto": "La fecha del COMMIT que contiene este fichero, registrada por GitHub al recibir el push, fija el limite superior: estos registros, con estos sha256, existian ya entonces. El nombre del fichero es la fecha de la OBSERVACION, que no esta probada por si sola. Los registros con via=\"wayback\" tienen ademas fecha certificada por el Internet Archive, que es independiente de nosotros.",
+ "raiz_sha256": "d2984196f1ccf8525ca31fcb3c953080689ef710fca880b80de391d1cef8a089",
+ "registros": [
+  {
+   "bytes": 57733,
+   "id": "seur_suplementos",
+   "ok": false,
+   "ts": "2025-07-09T17:56:29Z",
+   "url": "https://www.seur.com/es/empresas/servicios-disponibles/transporte-nacional/suplementos-en-el-precio-de-tu-envio/",
+   "via": "wayback"
+  },
+  {
+   "bytes": 56060,
+   "id": "seur_tasa_energia",
+   "ok": true,
+   "sha256": "6c4f684129911a77628fb701fbdb31ae8eabc09994653ee85c97730acd9c1030",
+   "ts": "2025-07-09T20:05:26Z",
+   "url": "https://www.seur.com/es/tasa-de-energia/",
+   "via": "wayback"
+  }
+ ]
+}

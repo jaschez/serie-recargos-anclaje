@@ -1,0 +1,18 @@
+{
+ "fecha": "2026-05-12",
+ "generado": "2026-09-09T15:41:13Z",
+ "n": 1,
+ "que_prueba_esto": "La fecha del COMMIT que contiene este fichero, registrada por GitHub al recibir el push, fija el limite superior: estos registros, con estos sha256, existian ya entonces. El nombre del fichero es la fecha de la OBSERVACION, que no esta probada por si sola. Los registros con via=\"wayback\" tienen ademas fecha certificada por el Internet Archive, que es independiente de nosotros.",
+ "raiz_sha256": "78945776d228e0075f4b3e34277f19e369e84e5d686626f9e928c10c5ab7292f",
+ "registros": [
+  {
+   "bytes": 57542,
+   "id": "seur_tasa_energia",
+   "ok": true,
+   "sha256": "b120a69c7b8e7e002cf4ed1c932f6a7b2c283a050f98d1322ac288e60878262b",
+   "ts": "2026-05-12T13:34:21Z",
+   "url": "https://www.seur.com/es/tasa-de-energia/",
+   "via": "wayback"
+  }
+ ]
+}

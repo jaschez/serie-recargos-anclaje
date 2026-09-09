@@ -1,0 +1,18 @@
+{
+ "fecha": "2020-04-07",
+ "generado": "2026-09-09T15:41:13Z",
+ "n": 1,
+ "que_prueba_esto": "La fecha del COMMIT que contiene este fichero, registrada por GitHub al recibir el push, fija el limite superior: estos registros, con estos sha256, existian ya entonces. El nombre del fichero es la fecha de la OBSERVACION, que no esta probada por si sola. Los registros con via=\"wayback\" tienen ademas fecha certificada por el Internet Archive, que es independiente de nosotros.",
+ "raiz_sha256": "9c17a4321694939b074ab8a4ed9dc4b1d4827d0d5ce325b5c67f28d516319f01",
+ "registros": [
+  {
+   "bytes": 86858,
+   "id": "fedex_es_surcharges",
+   "ok": true,
+   "sha256": "6efd00b809ea4a9c5786e6016cad3cfb9c256c1328a3bb1ce57e7fe1518d2840",
+   "ts": "2020-04-07T08:35:09Z",
+   "url": "https://www.fedex.com/es-es/shipping/surcharges.html",
+   "via": "wayback"
+  }
+ ]
+}

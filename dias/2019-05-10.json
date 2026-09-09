@@ -1,0 +1,18 @@
+{
+ "fecha": "2019-05-10",
+ "generado": "2026-09-09T15:41:13Z",
+ "n": 1,
+ "que_prueba_esto": "La fecha del COMMIT que contiene este fichero, registrada por GitHub al recibir el push, fija el limite superior: estos registros, con estos sha256, existian ya entonces. El nombre del fichero es la fecha de la OBSERVACION, que no esta probada por si sola. Los registros con via=\"wayback\" tienen ademas fecha certificada por el Internet Archive, que es independiente de nosotros.",
+ "raiz_sha256": "6b4c9ae64a176716d776f8c81cd7cc05f19c16f3697cfaa8791eec981ebedbc7",
+ "registros": [
+  {
+   "bytes": 32271,
+   "id": "seur_cargo_combustible",
+   "ok": true,
+   "sha256": "71bffced00243c691e40bac601b9d8c2b8a25f1fba95650d5f69a0dfc5f3e55d",
+   "ts": "2019-05-10T05:34:27Z",
+   "url": "https://www.seur.com/es/empresas/servicios-disponibles/transporte-nacional/cargo-por-combustible/",
+   "via": "wayback"
+  }
+ ]
+}
