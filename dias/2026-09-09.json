@@ -1,9 +1,9 @@
 {
  "fecha": "2026-09-09",
- "generado": "2026-09-09T15:41:13Z",
- "n": 82,
+ "generado": "2026-09-09T15:41:52Z",
+ "n": 83,
  "que_prueba_esto": "La fecha del COMMIT que contiene este fichero, registrada por GitHub al recibir el push, fija el limite superior: estos registros, con estos sha256, existian ya entonces. El nombre del fichero es la fecha de la OBSERVACION, que no esta probada por si sola. Los registros con via=\"wayback\" tienen ademas fecha certificada por el Internet Archive, que es independiente de nosotros.",
- "raiz_sha256": "530e79dc22d5a3b062a828bbed416e106663b629f0b0a8d7f9169747a5e9ee8e",
+ "raiz_sha256": "379f2a5d82dbafaacf7264e79554294467ae52d7facc38d33190c08a659c5edd",
  "registros": [
   {
    "id": "seur_tasa_energia",
@@ -579,6 +579,14 @@
    "sha256": "b40171067dc40bc047941ccda9e0a94463da652f49a23302b0a96f2ff829f935",
    "ts": "2026-09-09T15:35:15Z",
    "url": "https://gls-group.com/ES/es/enviar-paquetes/informacion-para-clientes/"
+  },
+  {
+   "bytes": 49255,
+   "id": "mrw_suplemento",
+   "ok": true,
+   "sha256": "12331dc90093e2e685d3b681915bb3593fe20db9741cf5c348b5ef7314a4289b",
+   "ts": "2026-09-09T15:41:48Z",
+   "url": "https://www.mrw.es/servicios_transporte_urgente/mrw_suplemento_combustible.asp"
   }
  ]
 }
