@@ -1,6 +1,6 @@
 {
  "fecha": "2026-09-09",
- "generado": "2026-09-09T15:41:52Z",
+ "generado": "2026-09-09T16:02:34Z",
  "n": 83,
  "que_prueba_esto": "La fecha del COMMIT que contiene este fichero, registrada por GitHub al recibir el push, fija el limite superior: estos registros, con estos sha256, existian ya entonces. El nombre del fichero es la fecha de la OBSERVACION, que no esta probada por si sola. Los registros con via=\"wayback\" tienen ademas fecha certificada por el Internet Archive, que es independiente de nosotros.",
  "raiz_sha256": "379f2a5d82dbafaacf7264e79554294467ae52d7facc38d33190c08a659c5edd",
