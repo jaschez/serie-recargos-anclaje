@@ -1,0 +1,102 @@
+{
+ "fecha": "2026-09-23",
+ "generado": "2026-09-23T06:37:38Z",
+ "n": 13,
+ "que_prueba_esto": "La fecha del COMMIT que contiene este fichero, registrada por GitHub al recibir el push, fija el limite superior: estos registros, con estos sha256, existian ya entonces. El nombre del fichero es la fecha de la OBSERVACION, que no esta probada por si sola. Los registros con via=\"wayback\" tienen ademas fecha certificada por el Internet Archive, que es independiente de nosotros.",
+ "raiz_sha256": "aba2f05667ab31d5cc5084b7cee55dae161e25725f2f6f1201a1761bfb22d1cc",
+ "registros": [
+  {
+   "id": "seur_tasa_energia",
+   "ok": false,
+   "ts": "2026-09-23T06:34:43Z",
+   "url": "https://www.seur.com/es/tasa-de-energia/"
+  },
+  {
+   "id": "seur_cargo_combustible",
+   "ok": false,
+   "ts": "2026-09-23T06:34:56Z",
+   "url": "https://www.seur.com/es/empresas/servicios-disponibles/transporte-nacional/cargo-por-combustible/"
+  },
+  {
+   "id": "seur_suplementos",
+   "ok": false,
+   "ts": "2026-09-23T06:35:08Z",
+   "url": "https://www.seur.com/es/empresas/servicios-disponibles/transporte-nacional/suplementos-en-el-precio-de-tu-envio/"
+  },
+  {
+   "id": "correosexpress_faq",
+   "ok": false,
+   "ts": "2026-09-23T06:35:20Z",
+   "url": "https://www.correosexpress.es/es/atencion-al-cliente/preguntas-frecuentes"
+  },
+  {
+   "bytes": 49997,
+   "id": "mrw_suplemento",
+   "ok": true,
+   "sha256": "80e0d4fb72f1d8fbd26c32013d3c26008da9329e3622cc09315aeae8363d5aee",
+   "ts": "2026-09-23T06:35:32Z",
+   "url": "https://www.mrw.es/servicios_transporte_urgente/mrw_suplemento_combustible.asp"
+  },
+  {
+   "id": "gls_info_clientes",
+   "ok": false,
+   "ts": "2026-09-23T06:35:45Z",
+   "url": "https://gls-group.com/ES/es/enviar-paquetes/informacion-para-clientes/"
+  },
+  {
+   "bytes": 35610,
+   "id": "tnt_fuel_europa",
+   "ok": true,
+   "sha256": "886a138dca0368da13f9c8f73f543277e73a2f0c3c63d2e9202c11af52c03d68",
+   "ts": "2026-09-23T06:36:06Z",
+   "url": "https://www.tnt.com/express/es_es/site/servicios-de-envio/fuel-surcharges-europe.html"
+  },
+  {
+   "bytes": 103265,
+   "id": "ue_boletin_petroleo",
+   "ok": true,
+   "sha256": "3467e9c31c1a7c530f9bea6fe21335ee4aa52bba985184f27d429f35926dd199",
+   "ts": "2026-09-23T06:36:18Z",
+   "url": "https://energy.ec.europa.eu/data-and-analysis/weekly-oil-bulletin_en"
+  },
+  {
+   "bytes": 96005,
+   "id": "ups_tabla_pdf",
+   "ok": true,
+   "sha256": "5567fa855be9d3293b69ecb57ed8927fc3bb5b841bc5571bad0b524c36689371",
+   "ts": "2026-09-23T06:36:31Z",
+   "url": "https://www.ups.com/assets/resources/webcontent/es_ES/fuel_surcharge_es.pdf"
+  },
+  {
+   "bytes": 14237,
+   "id": "ue_semanal_con_impuestos",
+   "ok": true,
+   "sha256": "d3f006f4e74b047545d38aebcce7c11cc779e03a9da0677ba7fbbe1de3297724",
+   "ts": "2026-09-23T06:36:46Z",
+   "url": "https://energy.ec.europa.eu/document/download/264c2d0f-f161-4ea3-a777-78faae59bea0_en"
+  },
+  {
+   "bytes": 131072,
+   "id": "eia_queroseno_usgc",
+   "ok": true,
+   "sha256": "5963d46e5afb188727b59589ad50f56aefaed25a95ae0f3060eec54c11925477",
+   "ts": "2026-09-23T06:36:59Z",
+   "url": "https://www.eia.gov/dnav/pet/hist_xls/EER_EPJK_PF4_RGC_DPGw.xls"
+  },
+  {
+   "bytes": 165929,
+   "id": "miteco_informes_mensuales",
+   "ok": true,
+   "sha256": "680cf4a8563f4c1143ffc904b49b2d0f251c530b14eeb6f3109e2c8d1e1a64c4",
+   "ts": "2026-09-23T06:37:11Z",
+   "url": "https://www.miteco.gob.es/es/energia/hidrocarburos-nuevos-combustibles/petroleo/informes/informes-mensuales.html"
+  },
+  {
+   "id": "dhl_ecommerce_fuel",
+   "ok": false,
+   "ts": "2026-09-23T06:37:23Z",
+   "url": "https://www.dhl.com/es-es/ecommerce/home/business-to-business-shipments/custom-solutions/fuel-surcharge.html",
+   "via": "lxc120/curl"
+  }
+ ]
+}
