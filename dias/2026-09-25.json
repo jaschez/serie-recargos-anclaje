@@ -1,0 +1,110 @@
+{
+ "fecha": "2026-09-25",
+ "generado": "2026-09-25T06:46:14Z",
+ "n": 14,
+ "que_prueba_esto": "La fecha del COMMIT que contiene este fichero, registrada por GitHub al recibir el push, fija el limite superior: estos registros, con estos sha256, existian ya entonces. El nombre del fichero es la fecha de la OBSERVACION, que no esta probada por si sola. Los registros con via=\"wayback\" tienen ademas fecha certificada por el Internet Archive, que es independiente de nosotros.",
+ "raiz_sha256": "10a9bda330778f74bd3240ebb7154b1d91617c778bf69af48bb003827fb8bba6",
+ "registros": [
+  {
+   "id": "seur_tasa_energia",
+   "ok": false,
+   "ts": "2026-09-25T06:43:08Z",
+   "url": "https://www.seur.com/es/tasa-de-energia/"
+  },
+  {
+   "id": "seur_cargo_combustible",
+   "ok": false,
+   "ts": "2026-09-25T06:43:21Z",
+   "url": "https://www.seur.com/es/empresas/servicios-disponibles/transporte-nacional/cargo-por-combustible/"
+  },
+  {
+   "id": "seur_suplementos",
+   "ok": false,
+   "ts": "2026-09-25T06:43:33Z",
+   "url": "https://www.seur.com/es/empresas/servicios-disponibles/transporte-nacional/suplementos-en-el-precio-de-tu-envio/"
+  },
+  {
+   "id": "correosexpress_faq",
+   "ok": false,
+   "ts": "2026-09-25T06:43:45Z",
+   "url": "https://www.correosexpress.es/es/atencion-al-cliente/preguntas-frecuentes"
+  },
+  {
+   "bytes": 49997,
+   "id": "mrw_suplemento",
+   "ok": true,
+   "sha256": "80e0d4fb72f1d8fbd26c32013d3c26008da9329e3622cc09315aeae8363d5aee",
+   "ts": "2026-09-25T06:43:57Z",
+   "url": "https://www.mrw.es/servicios_transporte_urgente/mrw_suplemento_combustible.asp"
+  },
+  {
+   "id": "gls_info_clientes",
+   "ok": false,
+   "ts": "2026-09-25T06:44:11Z",
+   "url": "https://gls-group.com/ES/es/enviar-paquetes/informacion-para-clientes/"
+  },
+  {
+   "bytes": 35610,
+   "id": "tnt_fuel_europa",
+   "ok": true,
+   "sha256": "886a138dca0368da13f9c8f73f543277e73a2f0c3c63d2e9202c11af52c03d68",
+   "ts": "2026-09-25T06:44:32Z",
+   "url": "https://www.tnt.com/express/es_es/site/servicios-de-envio/fuel-surcharges-europe.html"
+  },
+  {
+   "bytes": 103229,
+   "id": "ue_boletin_petroleo",
+   "ok": true,
+   "sha256": "616bcf8ccaf7dbc90cbc6a3c905b4073acfcf6080668e2d8b04e87273abc095e",
+   "ts": "2026-09-25T06:44:45Z",
+   "url": "https://energy.ec.europa.eu/data-and-analysis/weekly-oil-bulletin_en"
+  },
+  {
+   "bytes": 96005,
+   "id": "ups_tabla_pdf",
+   "ok": true,
+   "sha256": "5567fa855be9d3293b69ecb57ed8927fc3bb5b841bc5571bad0b524c36689371",
+   "ts": "2026-09-25T06:44:57Z",
+   "url": "https://www.ups.com/assets/resources/webcontent/es_ES/fuel_surcharge_es.pdf"
+  },
+  {
+   "bytes": 16985,
+   "id": "ue_semanal_con_impuestos",
+   "ok": true,
+   "sha256": "04077f37ee8f4874ec793ad166e8baebdea8ca91cfead8d6f8951e27e1d0dd1e",
+   "ts": "2026-09-25T06:45:10Z",
+   "url": "https://energy.ec.europa.eu/document/download/264c2d0f-f161-4ea3-a777-78faae59bea0_en"
+  },
+  {
+   "bytes": 4471821,
+   "id": "ue_historico_precios",
+   "ok": true,
+   "sha256": "8467d8c13c85f69bd59ee817832865ab92d2e57c11b1d572cf102df459446856",
+   "ts": "2026-09-25T06:45:22Z",
+   "url": "https://energy.ec.europa.eu/document/download/906e60ca-8b6a-44e7-8589-652854d2fd3f_en"
+  },
+  {
+   "bytes": 131072,
+   "id": "eia_queroseno_usgc",
+   "ok": true,
+   "sha256": "5d7634e1a01607c247f29596f65bd4b3e7dc69d364cbf0f36badcedd41592f3a",
+   "ts": "2026-09-25T06:45:34Z",
+   "url": "https://www.eia.gov/dnav/pet/hist_xls/EER_EPJK_PF4_RGC_DPGw.xls"
+  },
+  {
+   "bytes": 165929,
+   "id": "miteco_informes_mensuales",
+   "ok": true,
+   "sha256": "e579caa158a023a62ff154d3782a5d7d48e527ae0ee2a7e2cc4b51d4f0ca0d9d",
+   "ts": "2026-09-25T06:45:47Z",
+   "url": "https://www.miteco.gob.es/es/energia/hidrocarburos-nuevos-combustibles/petroleo/informes/informes-mensuales.html"
+  },
+  {
+   "id": "dhl_ecommerce_fuel",
+   "ok": false,
+   "ts": "2026-09-25T06:45:59Z",
+   "url": "https://www.dhl.com/es-es/ecommerce/home/business-to-business-shipments/custom-solutions/fuel-surcharge.html",
+   "via": "lxc120/curl"
+  }
+ ]
+}
