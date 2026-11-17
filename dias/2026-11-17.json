@@ -1,0 +1,24 @@
+{
+ "fecha": "2026-11-17",
+ "generado": "2026-11-17T06:28:03Z",
+ "n": 2,
+ "que_prueba_esto": "La fecha del COMMIT que contiene este fichero, registrada por GitHub al recibir el push, fija el limite superior: estos registros, con estos sha256, existian ya entonces. El nombre del fichero es la fecha de la OBSERVACION, que no esta probada por si sola. Los registros con via=\"wayback\" tienen ademas fecha certificada por el Internet Archive, que es independiente de nosotros.",
+ "raiz_sha256": "457767a4681d2cf255094259bc5743630993ac0e61947b40b441ae2ceddc6031",
+ "registros": [
+  {
+   "bytes": 4506196,
+   "id": "ue_historico_precios",
+   "ok": true,
+   "sha256": "7e14b5edc46bb654b5bec6a66a70f95a187ca7a293a002e1b40b6eef9d0cd1e3",
+   "ts": "2026-11-17T06:27:35Z",
+   "url": "https://energy.ec.europa.eu/document/download/906e60ca-8b6a-44e7-8589-652854d2fd3f_en"
+  },
+  {
+   "id": "dhl_ecommerce_fuel",
+   "ok": false,
+   "ts": "2026-11-17T06:27:47Z",
+   "url": "https://www.dhl.com/es-es/ecommerce/home/business-to-business-shipments/custom-solutions/fuel-surcharge.html",
+   "via": "lxc120/curl"
+  }
+ ]
+}
